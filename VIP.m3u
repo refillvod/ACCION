@@ -17,8 +17,9 @@ http://777back.xyz:8080/FuXion001/yVVvxY3h6R/73210
 #EXTINF:-1 tvg-id="ESPN 3 Sur Arg" tvg-name="ESPN 3 (ARG)" tvg-logo="http://latinolite.xyz:8080/images/e748f3c03f7c4088e90a0ccb2588e0ed.png" group-title="⭐️VIP⭐ DEPORTES PREMIUM",ESPN 3 (ARG)
 http://777back.xyz:8080/FuXion001/yVVvxY3h6R/67779
 
-#EXTM3U
+
 #EXTINF:-1 tvg-id="ESPN 3 Sur Arg" tvg-name="ESPN 3 (ARG)" tvg-logo="http://latinolite.xyz:8080/images/e748f3c03f7c4088e90a0ccb2588e0ed.png" group-title="⭐️VIP⭐ DEPORTES PREMIUM",ESPN XXX (ARG)
+#EXTM3U
 #EXT-X-INDEPENDENT-SEGMENTS
 #EXT-X-STREAM-INF:BANDWIDTH=290288,CODECS="mp4a.40.5,avc1.42c00b",RESOLUTION=256x144,FRAME-RATE=15,VIDEO-RANGE=SDR,CLOSED-CAPTIONS=NONE
 https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1634966617/ei/-UdzYc3fD4O0lu8Pv_qtiAE/ip/2806:267:1408:9615:b8d5:d95:82b7:3334/id/kfqJ72V-fY4.1/itag/91/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D139/sgovp/gir%3Dyes%3Bitag%3D160/hls_chunk_host/rr1---sn-hxb5j5cax-ugjs.googlevideo.com/playlist_duration/30/manifest_duration/30/gcr/mx/vprv/1/playlist_type/DVR/initcwndbps/9090/mh/S9/mm/44/mn/sn-hxb5j5cax-ugjs/ms/lva/mv/m/mvi/1/pl/49/dover/11/keepalive/yes/fexp/24001373,24007246/mt/1634944583/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,playlist_duration,manifest_duration,gcr,vprv,playlist_type/sig/AOq0QJ8wRQIgBAn8uNFO3f7eF5IxHeDjpvUvRFh-gyoQ6R83Mns5GewCIQC6hvV_uO0mkVDXxMdVKQv3SCD30GVHaKwr9jTQQsvgvQ%3D%3D/lsparams/hls_chunk_host,initcwndbps,mh,mm,mn,ms,mv,mvi,pl/lsig/AG3C_xAwRQIhAJN2SUxOypt1G_63AkRC1QnAoiwL78coUnJk_VJ5Zx06AiAqzhdn5WN77bGCw8ef7tJEmHT1lurrDegTHcRajGZxYg%3D%3D/playlist/index.m3u8
